@@ -1,0 +1,17 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "target": "ES5",
+    "outDir": "dist",
+    "noImplicitAny": false,
+    "removeComments": false,
+    "sourceMap": true
+  },
+  "exclude": [
+    "node_modules",
+    "test"
+  ],
+  "files": [
+    "./src/index.ts"
+  ]
+}
